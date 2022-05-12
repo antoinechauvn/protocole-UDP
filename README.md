@@ -15,6 +15,8 @@ Puisque l'on ne vérifie pas que l'hôte distant a bien reçu les données, on �
 Le paquet UDP est encapsulé dans un paquet IP. Il comporte un en-tête suivi des données proprement dites à transporter.
 
 ![image](https://user-images.githubusercontent.com/83721477/168084857-d8ef09bb-2586-42c6-a429-8e943c313875.png)
+
 L'en-tête d'un datagramme UDP est plus simple que celui de TCP :
+
 ![image](https://user-images.githubusercontent.com/83721477/168084960-b1b3833c-8e37-4286-93f0-5784aa440cd8.png)
 
